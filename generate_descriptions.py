@@ -21,7 +21,7 @@ Given the following target information and source characteristics, generate a 10
 Target Information:
 - Name: {target['Target Name']}
 - Category: {target['Target Category']}
-- Cluster Damage: {target['Cluster Damage']}
+- Collateral Damage: {target['Collateral Damage']}
 - Certainty: {target['Certainty']}
 - Suggested Strike Method: {target['Suggested Strike Method']}
 

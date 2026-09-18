@@ -816,7 +816,7 @@
                 <h2>AID LOCATION: ${target["Target ID"]} - ${target["Target Name"]}</h2>
                 <table>
                     <tr><td>Aid Category:</td><td>${target["Target Category"]}</td></tr>
-                    <tr><td>Urgency Level:</td><td>${target["Cluster Damage"]}${emergencyExpandHtml}</td></tr>
+                    <tr><td>Urgency Level:</td><td>${target["Collateral Damage"]}${emergencyExpandHtml}</td></tr>
                     <tr><td>Related Posts:</td><td>${relatedPosts.length} posts from various sources${trustExpandHtml}</td></tr>
                     <tr><td>Post Urgency:</td><td>Distribution by urgency level<span class="source-expand">
                         <span class="show-more-btn" onclick="toggleScaleDetails('urgency')">[?]</span>
@@ -891,7 +891,7 @@
                 const lat = target.latitude;
                 const lng = target.longitude;
                 const radius = target.radius_m;
-                const urgency = target["Cluster Damage"].toLowerCase();
+                const urgency = target["Collateral Damage"].toLowerCase();
                 
                 // Determine color based on urgency
                 let markerColor, fillColor;
@@ -990,7 +990,7 @@
                 );
                 
                 if (relatedTarget) {
-                    const emergency = relatedTarget["Cluster Damage"].toLowerCase();
+                    const emergency = relatedTarget["Collateral Damage"].toLowerCase();
                     if (emergency in scaleDistributions.emergency) {
                         scaleDistributions.emergency[emergency]++;
                     }
