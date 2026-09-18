@@ -1,0 +1,591 @@
+[
+  {
+    "id": "post_001",
+    "incident_id": 1,
+    "title": "UN Declares Critical Medical Emergency in Baidoa District",
+    "source": "UN OCHA Field Assessment",
+    "source_type": "official",
+    "content": "United Nations Office for the Coordination of Humanitarian Affairs confirms severe medical crisis in Baidoa District affecting over 15,000 residents. Widespread malnutrition and cholera outbreak requires immediate mobile medical teams deployment.",
+    "timestamp": "2024-01-15T08:30:00Z",
+    "trust_level": "high"
+  },
+  {
+    "id": "post_002", 
+    "incident_id": 1,
+    "title": "WHO Confirms Cholera Outbreak in Baidoa",
+    "source": "WHO Health Monitoring Network",
+    "source_type": "official",
+    "content": "World Health Organization monitoring systems confirm cholera outbreak in Baidoa District. Children under 5 most affected. Emergency rehydration therapy and medical supplies urgently needed.",
+    "timestamp": "2024-01-15T10:15:00Z",
+    "trust_level": "high"
+  },
+  {
+    "id": "post_003",
+    "incident_id": 1,
+    "title": "MSF Teams Report Dire Conditions in Baidoa",
+    "source": "Médecins Sans Frontières Field Reports",
+    "source_type": "news",
+    "content": "Our field teams confirm devastating health crisis in Baidoa. Mobile clinics overwhelmed. Community health workers report deteriorating conditions daily. Immediate intervention critical.",
+    "timestamp": "2024-01-15T12:45:00Z",
+    "trust_level": "medium"
+  },
+  {
+    "id": "post_004",
+    "incident_id": 1,
+    "title": "Local Communities Desperate for Medical Help",
+    "source": "Local Community Networks",
+    "source_type": "social_media",
+    "content": "Families in Baidoa pleading for help. No clean water, children dying. Where is international aid? #BaidoaCrisis #Somalia #Help",
+    "timestamp": "2024-01-15T14:20:00Z", 
+    "trust_level": "low"
+  },
+
+  {
+    "id": "post_005",
+    "incident_id": 2,
+    "title": "UNHCR Reports Overcrowding at Dadaab Extension",
+    "source": "UNHCR Refugee Assessment Data",
+    "source_type": "official",
+    "content": "UN Refugee Agency documents moderate overcrowding at Dadaab refugee camp extension. 3,500 newly displaced families require shelter assistance. Coordinated humanitarian convoy recommended.",
+    "timestamp": "2024-01-14T16:30:00Z",
+    "trust_level": "medium"
+  },
+  {
+    "id": "post_006",
+    "incident_id": 2,
+    "title": "Community Leaders Sound Alarm on Shelter Crisis",
+    "source": "Local Community Networks", 
+    "source_type": "news",
+    "content": "Camp leaders report growing concerns about shelter capacity and sanitation. Seasonal flooding complicating access roads. Community coordination essential for effective response.",
+    "timestamp": "2024-01-14T18:45:00Z",
+    "trust_level": "low"
+  },
+  {
+    "id": "post_007",
+    "incident_id": 2,
+    "title": "Refugees Share Crowded Conditions on Social Media",
+    "source": "Local Community Networks",
+    "source_type": "social_media", 
+    "content": "Living in terrible conditions at Dadaab extension. Too many people, not enough shelter. Need help now #RefugeeCrisis #Dadaab",
+    "timestamp": "2024-01-14T20:10:00Z",
+    "trust_level": "low"
+  },
+
+  {
+    "id": "post_008",
+    "incident_id": 3,
+    "title": "MSF Confirms Water System Breakdown in Mogadishu IDP",
+    "source": "Médecins Sans Frontières Field Reports",
+    "source_type": "official",
+    "content": "Complete breakdown of water systems confirmed at Mogadishu IDP settlement. 8,200 internally displaced persons at risk. Emergency WASH deployment essential to prevent waterborne disease spread.",
+    "timestamp": "2024-01-13T09:15:00Z",
+    "trust_level": "medium"
+  },
+  {
+    "id": "post_009",
+    "incident_id": 3,
+    "title": "WHO Reports Waterborne Disease Cases Rising",
+    "source": "WHO Health Monitoring Network",
+    "source_type": "official",
+    "content": "Health monitoring confirms rapid spread of waterborne diseases at Mogadishu IDP settlement. Contamination risk severe. Emergency water and sanitation intervention required immediately.",
+    "timestamp": "2024-01-13T11:30:00Z",
+    "trust_level": "high"
+  },
+  {
+    "id": "post_010",
+    "incident_id": 3,
+    "title": "IDP Families Post Videos of Contaminated Water",
+    "source": "Local Community Networks",
+    "source_type": "social_media",
+    "content": "No clean water for days. Children getting sick from dirty water. Someone please help us #MogadishuCrisis #CleanWater #Somalia",
+    "timestamp": "2024-01-13T15:20:00Z",
+    "trust_level": "low"
+  },
+
+  {
+    "id": "post_011",
+    "incident_id": 4,
+    "title": "UNHCR Data Shows Food Insecurity in Galkayo Villages",
+    "source": "UNHCR Refugee Assessment Data",
+    "source_type": "official",
+    "content": "Preliminary assessment indicates food insecurity affecting 1,200 households in Galkayo rural villages. Irregular crop yields reported. Comprehensive field verification required before intervention.",
+    "timestamp": "2024-01-12T14:00:00Z",
+    "trust_level": "medium"
+  },
+  {
+    "id": "post_012",
+    "incident_id": 4,
+    "title": "Local Reports of Crop Failures",
+    "source": "Local Community Networks",
+    "source_type": "news",
+    "content": "Farmers in Galkayo region report poor harvests. Some families struggling with food access. Community resilience mechanisms still functioning in most areas.",
+    "timestamp": "2024-01-12T16:30:00Z",
+    "trust_level": "low"
+  },
+  {
+    "id": "post_013",
+    "incident_id": 4,
+    "title": "Rural Families Share Harvest Concerns",
+    "source": "Local Community Networks",
+    "source_type": "social_media",
+    "content": "Another bad harvest season. Hope things get better soon. Community helping each other for now. #GalkayoFarmers #Somalia",
+    "timestamp": "2024-01-12T19:45:00Z",
+    "trust_level": "low"
+  },
+
+  {
+    "id": "post_014",
+    "incident_id": 5,
+    "title": "WHO Documents Educational Disruption in Hargeisa",
+    "source": "WHO Health Monitoring Network",
+    "source_type": "official",
+    "content": "Education monitoring shows 2,800 school-age children affected by educational disruption in Hargeisa urban districts. Several schools suspended operations. Mobile education units recommended.",
+    "timestamp": "2024-01-11T10:20:00Z",
+    "trust_level": "high"
+  },
+  {
+    "id": "post_015",
+    "incident_id": 5,
+    "title": "Schools Struggle with Resource Constraints",
+    "source": "Local Community Networks",
+    "source_type": "news",
+    "content": "Multiple schools in Hargeisa facing closure due to resource shortages. Parents concerned about children's education. Community leaders calling for support.",
+    "timestamp": "2024-01-11T13:15:00Z",
+    "trust_level": "low"
+  },
+  {
+    "id": "post_016",
+    "incident_id": 5,
+    "title": "Parents Express Education Fears on Social Media",
+    "source": "Local Community Networks",
+    "source_type": "social_media",
+    "content": "My children can't go to school anymore. Schools closed due to lack of resources. What future do they have? #EducationCrisis #Hargeisa",
+    "timestamp": "2024-01-11T17:30:00Z",
+    "trust_level": "low"
+  },
+
+  {
+    "id": "post_017",
+    "incident_id": 6,
+    "title": "MSF Reports Declining Fishing Yields in Kismayo",
+    "source": "Médecins Sans Frontières Field Reports",
+    "source_type": "news",
+    "content": "Field networks document declining fishing yields affecting 1,800 households in Kismayo coastal communities. Local cooperatives report equipment and training needs. Community resilience remains strong.",
+    "timestamp": "2024-01-10T11:30:00Z",
+    "trust_level": "medium"
+  },
+  {
+    "id": "post_018",
+    "incident_id": 6,
+    "title": "Fishing Communities Share Economic Struggles",
+    "source": "Local Community Networks",
+    "source_type": "social_media",
+    "content": "Fishing not what it used to be. Catches getting smaller. Need new equipment and skills. Community working together to find solutions. #KismayoFishing",
+    "timestamp": "2024-01-10T15:45:00Z",
+    "trust_level": "low"
+  },
+
+  {
+    "id": "post_019",
+    "incident_id": 7,
+    "title": "Community Networks Report Medical Equipment Crisis",
+    "source": "Local Community Networks",
+    "source_type": "official",
+    "content": "Critical shortage of medical equipment at Garowe Emergency Hospital. Local health workers confirm lack of oxygen concentrators affecting 25,000 potential patients. Emergency airlift needed.",
+    "timestamp": "2024-01-09T08:45:00Z",
+    "trust_level": "low"
+  },
+  {
+    "id": "post_020",
+    "incident_id": 7,
+    "title": "Hospital Staff Desperate for Equipment",
+    "source": "Local Community Networks",
+    "source_type": "social_media",
+    "content": "Working at Garowe Hospital is heartbreaking. No oxygen, no surgical equipment. Patients suffering. Please send help #GaroweHospital #MedicalCrisis",
+    "timestamp": "2024-01-09T12:20:00Z",
+    "trust_level": "low"
+  },
+  {
+    "id": "post_021",
+    "incident_id": 7,
+    "title": "Medical Crisis Confirmed by Health Workers",
+    "source": "Local Community Networks",
+    "source_type": "news",
+    "content": "Healthcare workers at Garowe Emergency Hospital confirm critical equipment shortages. Community health workers providing detailed inventories of urgent needs.",
+    "timestamp": "2024-01-09T14:15:00Z",
+    "trust_level": "low"
+  },
+
+  {
+    "id": "post_022",
+    "incident_id": 8,
+    "title": "Unconfirmed Reports of Flooding in Beledweyne",
+    "source": "Local Community Networks",
+    "source_type": "social_media",
+    "content": "Hearing reports of possible flooding in Beledweyne. Some displacement reported but details unclear. Waiting for official confirmation. #BeledweynefFloods",
+    "timestamp": "2024-01-08T16:30:00Z",
+    "trust_level": "low"
+  },
+  {
+    "id": "post_023",
+    "incident_id": 8,
+    "title": "Mixed Reports on Flood Damage", 
+    "source": "Local Community Networks",
+    "source_type": "news",
+    "content": "Community radio reports possible flood damage affecting 4,200 residents in Beledweyne. Information inconsistent - some sources indicate manageable conditions, others suggest displacement needs.",
+    "timestamp": "2024-01-08T18:45:00Z",
+    "trust_level": "low"
+  },
+
+  {
+    "id": "post_024",
+    "incident_id": 9,
+    "title": "WHO Confirms Maternal Health Gaps in Las Anod",
+    "source": "WHO Health Monitoring Network", 
+    "source_type": "official",
+    "content": "Health monitoring confirms concerning maternal mortality rates in Las Anod healthcare district. 15,000 women of reproductive age affected. Specialized medical mission required for obstetric care.",
+    "timestamp": "2024-01-07T09:30:00Z",
+    "trust_level": "high"
+  },
+  {
+    "id": "post_025",
+    "incident_id": 9,
+    "title": "Regional Health Authorities Identify Priority Area",
+    "source": "WHO Health Monitoring Network",
+    "source_type": "official", 
+    "content": "Government health task force identifies Las Anod as priority region for maternal health intervention. Specialized obstetric and neonatal care gaps confirmed through comprehensive analysis.",
+    "timestamp": "2024-01-07T11:45:00Z",
+    "trust_level": "high"
+  },
+  {
+    "id": "post_026",
+    "incident_id": 9,
+    "title": "Women Share Pregnancy Concerns Online",
+    "source": "Local Community Networks",
+    "source_type": "social_media",
+    "content": "Pregnant and scared. No proper medical care available. Lost too many mothers in our community. Need help urgently #MaternalHealth #LasAnod",
+    "timestamp": "2024-01-07T16:20:00Z",
+    "trust_level": "low"
+  },
+
+  {
+    "id": "post_027",
+    "incident_id": 10,
+    "title": "Port Workers Report Health Concerns at Berbera",
+    "source": "Local Community Networks",
+    "source_type": "news",
+    "content": "Worker advocacy networks report emerging occupational health concerns affecting 850 dock workers at Berbera port. Mobile health screening recommended for workplace safety assessment.",
+    "timestamp": "2024-01-06T13:15:00Z",
+    "trust_level": "low"
+  },
+  {
+    "id": "post_028",
+    "incident_id": 10,
+    "title": "Dock Workers Share Safety Worries",
+    "source": "Local Community Networks", 
+    "source_type": "social_media",
+    "content": "Working conditions at Berbera port getting worse. Need health checkups and safety improvements. Union trying to help. #BerberaWorkers #SafetyFirst",
+    "timestamp": "2024-01-06T17:30:00Z",
+    "trust_level": "low"
+  },
+
+  {
+    "id": "post_029",
+    "incident_id": 11,
+    "title": "Agricultural Crisis Confirmed in Jowhar Region",
+    "source": "Local Community Networks",
+    "source_type": "official",
+    "content": "Local agricultural networks confirm severe crop failure in Jowhar region affecting 18,000 farming households. Complete irrigation system failure and drought-resistant seed shortage reported.",
+    "timestamp": "2024-01-05T10:00:00Z",
+    "trust_level": "low"
+  },
+  {
+    "id": "post_030",
+    "incident_id": 11,
+    "title": "Farmers Detail Crop Failures",
+    "source": "Local Community Networks",
+    "source_type": "news",
+    "content": "Multiple farming cooperatives in Jowhar report complete harvest failure. Irrigation systems broken, no drought-resistant seeds available. Community agricultural experts recommend immediate technical intervention.",
+    "timestamp": "2024-01-05T12:30:00Z",
+    "trust_level": "low"
+  },
+  {
+    "id": "post_031",
+    "incident_id": 11,
+    "title": "Farming Families Desperate for Help",
+    "source": "Local Community Networks",
+    "source_type": "social_media",
+    "content": "Lost everything this season. No water, no seeds, no harvest. How will we feed our families? Need agricultural support now #JowharFarmers #CropFailure",
+    "timestamp": "2024-01-05T15:45:00Z",
+    "trust_level": "low"
+  },
+
+  {
+    "id": "post_032",
+    "incident_id": 12,
+    "title": "UNHCR Data Indicates Disease Outbreak Risk in Bosaso",
+    "source": "UNHCR Refugee Assessment Data",
+    "source_type": "official", 
+    "content": "Refugee assessment indicates high-risk conditions for disease outbreak in Bosaso urban slums. 9,500 residents in overcrowded informal settlements. Public health campaign recommended.",
+    "timestamp": "2024-01-04T11:20:00Z",
+    "trust_level": "medium"
+  },
+  {
+    "id": "post_033",
+    "incident_id": 12,
+    "title": "Overcrowded Conditions Worry Health Officials",
+    "source": "UNHCR Refugee Assessment Data",
+    "source_type": "news",
+    "content": "Remote health monitoring suggests significant risk for communicable disease transmission in Bosaso slums. Environmental conditions concerning but ground verification needed.",
+    "timestamp": "2024-01-04T14:15:00Z",
+    "trust_level": "medium"
+  },
+  {
+    "id": "post_034",
+    "incident_id": 12,
+    "title": "Slum Residents Post About Living Conditions",
+    "source": "Local Community Networks",
+    "source_type": "social_media",
+    "content": "Too many people, not enough space. Getting sick all the time. Need better living conditions and health care #BosasoSlums #Health",
+    "timestamp": "2024-01-04T18:30:00Z", 
+    "trust_level": "low"
+  },
+
+  {
+    "id": "post_035",
+    "incident_id": 13,
+    "title": "WHO Monitoring Identifies Protection Crisis in Afgooye",
+    "source": "WHO Health Monitoring Network",
+    "source_type": "official",
+    "content": "Health and protection monitoring confirms protection risks for vulnerable populations in Afgooye corridor. 2,200 unaccompanied minors and elderly requiring protection rapid response.",
+    "timestamp": "2024-01-03T09:45:00Z",
+    "trust_level": "high"
+  },
+  {
+    "id": "post_036",
+    "incident_id": 13,
+    "title": "Government Task Force Confirms Protection Emergency",
+    "source": "WHO Health Monitoring Network",
+    "source_type": "official",
+    "content": "Government protection task force analysis confirms high-priority protection emergency in Afgooye corridor. Digital monitoring indicates urgent need for coordinated protection services.",
+    "timestamp": "2024-01-03T11:30:00Z",
+    "trust_level": "high"
+  },
+  {
+    "id": "post_037",
+    "incident_id": 13,
+    "title": "Vulnerable Families Seek Safety",
+    "source": "Local Community Networks",
+    "source_type": "social_media",
+    "content": "Children and elderly need protection. Dangerous situation here. Where can we find safety? #AfgooyeCorridor #Protection #Help",
+    "timestamp": "2024-01-03T16:15:00Z",
+    "trust_level": "low"
+  },
+
+  {
+    "id": "post_038",
+    "incident_id": 14,
+    "title": "UN OCHA Confirms Emergency Capacity Gaps in Burao",
+    "source": "UN OCHA Field Assessment",
+    "source_type": "official",
+    "content": "OCHA field assessment confirms critical emergency capacity gaps in Burao affecting disaster preparedness for 120,000 residents. Multi-agency coordination supports immediate capacity building.",
+    "timestamp": "2024-01-02T08:15:00Z",
+    "trust_level": "high"
+  },
+  {
+    "id": "post_039",
+    "incident_id": 14,
+    "title": "International Agencies Coordinate Response",
+    "source": "UN OCHA Field Assessment", 
+    "source_type": "official",
+    "content": "Multi-agency coordination confirms significant deficiencies in emergency response infrastructure and personnel in Burao. Regional hub requires robust emergency preparedness capacity.",
+    "timestamp": "2024-01-02T10:30:00Z",
+    "trust_level": "high"
+  },
+  {
+    "id": "post_040",
+    "incident_id": 14,
+    "title": "Local Officials Acknowledge Emergency Gaps",
+    "source": "Local Community Networks",
+    "source_type": "news",
+    "content": "City officials acknowledge gaps in emergency preparedness. Need training and equipment for disaster response. International support welcome for capacity building.",
+    "timestamp": "2024-01-02T14:45:00Z",
+    "trust_level": "low"
+  },
+
+  {
+    "id": "post_041",
+    "incident_id": 15,
+    "title": "Border Health Coordination Needs in Luuq District",
+    "source": "Local Community Networks",
+    "source_type": "official",
+    "content": "Border health networks indicate manageable cross-border health coordination challenges affecting 3,200 residents. Enhanced health monitoring systems could prevent future deterioration.",
+    "timestamp": "2024-01-01T12:00:00Z",
+    "trust_level": "low"
+  },
+  {
+    "id": "post_042",
+    "incident_id": 15,
+    "title": "Community Health Workers Report Gaps",
+    "source": "Local Community Networks",
+    "source_type": "news",
+    "content": "Volunteer border health networks report persistent gaps in health information sharing. Disease surveillance needs improvement but situation stable.",
+    "timestamp": "2024-01-01T15:30:00Z",
+    "trust_level": "low"
+  },
+
+  {
+    "id": "post_043",
+    "incident_id": 16,
+    "title": "UN OCHA Documents Rural Healthcare Infrastructure Needs",
+    "source": "UN OCHA Field Assessment",
+    "source_type": "official",
+    "content": "OCHA coordination confirms healthcare infrastructure deterioration in Cadale rural clinic network. 8,900 residents affected. Infrastructure support and staff training recommended.",
+    "timestamp": "2023-12-31T10:15:00Z",
+    "trust_level": "high"
+  },
+  {
+    "id": "post_044",
+    "incident_id": 16,
+    "title": "Rural Clinics Struggle with Equipment",
+    "source": "UN OCHA Field Assessment",
+    "source_type": "news",
+    "content": "Multi-agency assessment confirms equipment maintenance and staff training needs in rural clinic network. Infrastructure challenges manageable with targeted support.",
+    "timestamp": "2023-12-31T13:45:00Z",
+    "trust_level": "high"
+  },
+  {
+    "id": "post_045",
+    "incident_id": 16,
+    "title": "Rural Communities Share Healthcare Struggles", 
+    "source": "Local Community Networks",
+    "source_type": "social_media",
+    "content": "Clinic in our village barely working. Need medicine and equipment. Please help our healthcare workers #CadaleHealth #RuralHealthcare",
+    "timestamp": "2023-12-31T17:20:00Z",
+    "trust_level": "low"
+  },
+
+  {
+    "id": "post_046",
+    "incident_id": 17,
+    "title": "UN OCHA Confirms Marine Resource Depletion in Marka",
+    "source": "UN OCHA Field Assessment",
+    "source_type": "official",
+    "content": "OCHA assessment confirms moderate marine resource depletion affecting 4,100 fishing households in Marka. Sustainable livelihoods programming with marine conservation recommended.",
+    "timestamp": "2023-12-30T09:30:00Z",
+    "trust_level": "high"
+  },
+  {
+    "id": "post_047",
+    "incident_id": 17,
+    "title": "International Assessment Shows Declining Fish Stocks",
+    "source": "UN OCHA Field Assessment",
+    "source_type": "official",
+    "content": "Multi-agency analysis confirms declining fish stocks affecting traditional livelihoods. Community consultation supports sustainable livelihood diversification with alternative income generation.",
+    "timestamp": "2023-12-30T12:00:00Z",
+    "trust_level": "high"
+  },
+  {
+    "id": "post_048",
+    "incident_id": 17,
+    "title": "Fishing Families Adapt to Changes",
+    "source": "Local Community Networks",
+    "source_type": "social_media",
+    "content": "Fish catches getting smaller each year. Learning new skills to support families. Community working together on solutions #MarkaFishing #SustainableLivelihoods",
+    "timestamp": "2023-12-30T16:45:00Z",
+    "trust_level": "low"
+  },
+
+  {
+    "id": "post_049",
+    "incident_id": 18,
+    "title": "MSF Confirms Market Infrastructure Collapse",
+    "source": "Médecins Sans Frontières Field Reports",
+    "source_type": "official",
+    "content": "Field assessment confirms severe economic disruption in Garbahaarrey market district. Market infrastructure collapse affecting 12,000 households. Immediate market rehabilitation required.",
+    "timestamp": "2023-12-29T08:45:00Z",
+    "trust_level": "medium"
+  },
+  {
+    "id": "post_050",
+    "incident_id": 18,
+    "title": "Regional Trade Network at Risk",
+    "source": "Médecins Sans Frontières Field Reports",
+    "source_type": "news",
+    "content": "Assessment teams confirm complete breakdown of market facilities threatening regional trading network. Economic recovery specialists recommend immediate rehabilitation programming.",
+    "timestamp": "2023-12-29T11:15:00Z",
+    "trust_level": "medium"
+  },
+  {
+    "id": "post_051",
+    "incident_id": 18,
+    "title": "Traders Share Market Collapse Concerns",
+    "source": "Local Community Networks",
+    "source_type": "social_media",
+    "content": "Market destroyed, no place to trade. Families can't make living. Need help rebuilding immediately #GarbahaarreyMarket #EconomicCrisis",
+    "timestamp": "2023-12-29T15:30:00Z",
+    "trust_level": "low"
+  },
+
+  {
+    "id": "post_052",
+    "incident_id": 19,
+    "title": "Community Youth Networks Document Skills Gaps",
+    "source": "Local Community Networks",
+    "source_type": "official",
+    "content": "Youth networks confirm significant gaps in skills training affecting 1,800 young adults in Dhusamareb. Vocational training and livelihood skills development urgently needed.",
+    "timestamp": "2023-12-28T11:00:00Z",
+    "trust_level": "low"
+  },
+  {
+    "id": "post_053",
+    "incident_id": 19,
+    "title": "Young People Seek Training Opportunities",
+    "source": "Local Community Networks",
+    "source_type": "social_media",
+    "content": "No jobs, no training available. Young people need skills and opportunities. Community wants to help but lacks resources #DhusamarebYouth #SkillsTraining",
+    "timestamp": "2023-12-28T14:30:00Z",
+    "trust_level": "low"
+  },
+  {
+    "id": "post_054",
+    "incident_id": 19,
+    "title": "Youth Leaders Call for Support",
+    "source": "Local Community Networks", 
+    "source_type": "news",
+    "content": "Local youth leaders organizing to address unemployment. Direct community engagement confirms urgent need for vocational training initiatives in the region.",
+    "timestamp": "2023-12-28T17:45:00Z",
+    "trust_level": "low"
+  },
+
+  {
+    "id": "post_055",
+    "incident_id": 20,
+    "title": "WHO Monitoring Shows Minor Livestock Health Issues",
+    "source": "WHO Health Monitoring Network",
+    "source_type": "official",
+    "content": "Health monitoring indicates low-level animal health issues in Wajid pastoral communities affecting 650 families. Preventive veterinary outreach recommended.",
+    "timestamp": "2023-12-27T10:30:00Z",
+    "trust_level": "high"
+  },
+  {
+    "id": "post_056",
+    "incident_id": 20,
+    "title": "Pastoralists Report Animal Health Concerns",
+    "source": "Local Community Networks",
+    "source_type": "news", 
+    "content": "Pastoralist families report minor livestock health issues across traditional grazing areas. Government monitoring suggests preventive intervention could maintain livelihoods.",
+    "timestamp": "2023-12-27T13:15:00Z",
+    "trust_level": "low"
+  },
+  {
+    "id": "post_057",
+    "incident_id": 20,
+    "title": "Herders Share Livestock Worries",
+    "source": "Local Community Networks",
+    "source_type": "social_media",
+    "content": "Some animals getting sick. Need veterinary help to keep herds healthy. Traditional remedies not enough anymore #WajidPastoralists #LivestockHealth",
+    "timestamp": "2023-12-27T16:45:00Z",
+    "trust_level": "low"
+  }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "UN OCHA Field Assessment",
+        "type": "International Humanitarian Coordination",
+        "trust_level": "High",
+        "description": "United Nations Office for the Coordination of Humanitarian Affairs field assessment teams. Provides comprehensive multi-agency coordination and verified humanitarian assessments. Highly reliable with thorough cross-verification protocols, though coordination processes can be methodical."
+    },
+    {
+        "name": "WHO Health Monitoring Network",
+        "type": "Global Health Intelligence System",
+        "trust_level": "High",
+        "description": "World Health Organization comprehensive health monitoring and surveillance network. Provides systematic health data collection and analysis with strong verification processes. Reliable health intelligence, though sometimes experiences data lag in remote areas."
+    },
+    {
+        "name": "Médecins Sans Frontières Field Reports",
+        "type": "Humanitarian Medical Assessment Network",
+        "trust_level": "Medium",
+        "description": "International medical humanitarian organization with extensive field presence and rapid assessment capabilities. Provides fast and actionable medical intelligence, though primarily focused on immediate medical needs rather than broader humanitarian context."
+    },
+    {
+        "name": "Local Community Networks",
+        "type": "Grassroots Community Information Systems",
+        "trust_level": "Low",
+        "description": "Community-based information networks including local leaders, community health workers, and volunteer monitoring systems. Provides valuable ground-level insights and community perspectives, but data quality can vary and may include subjective assessments."
+    },
+    {
+        "name": "UNHCR Refugee Assessment Data",
+        "type": "Refugee and Displacement Monitoring System",
+        "trust_level": "Low",
+        "description": "UN High Commissioner for Refugees data collection and analysis system focusing on displacement and refugee populations. Utilizes systematic data collection methods but relies heavily on remote assessment and statistical modeling, requiring field verification."
+    }
+]
