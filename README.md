@@ -10,7 +10,7 @@ From this directory, run:
 python3 -m http.server 8000 --bind 127.0.0.1
 ```
 
-Open <http://localhost:8000>. Serve the files over HTTP rather than opening `index.html` directly, because the page loads JSON with `fetch()`. Internet access is needed for Leaflet assets and OpenStreetMap tiles.
+Open <http://localhost:8000>. Serve the files over HTTP rather than opening `index.html` directly.
 
 ## HTML configuration
 
